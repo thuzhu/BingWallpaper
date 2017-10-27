@@ -7,4 +7,4 @@ Automatically downloading Bing wallpapers every day as the WINDOWS desktop backg
 3. Right click on your desktop, Change the backgroud to "Slideshow" and set the albums path to "D:\BingWallpaper\BingWallpaper"
     - If you are using win10, just set the "Shuffle" on and change picture every 30mins for more fun!
 
-## For more information, please visit http://zhudeng.top/index.php/2017/10/27/getting-bingwallpapers-for-windows-desktop/
+## For more information, please visit http://zhudeng.top/
